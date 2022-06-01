@@ -1,5 +1,9 @@
-#Роман Савицкий
-##Мои контакты:
-*Telegram https://t.me/Savitskas
-*Discord Savitskas#1855
-*Instagram https://www.instagram.com/_savitskas_
+# Роман Савицкий
+
+## Мои контакты:
+* Telegram https://t.me/Savitskas
+* Discord Savitskas#1855
+* Instagram https://www.instagram.com/_savitskas_
+
+## О себе:
+Хочу стать full-stack разработчиком, качественно разрабатывать веб-приложения. Легко воспринимаю новый материал, выполняю разные задания(обычно связываюсь со знакомыми разработчиками), чтобы его закрепить.
